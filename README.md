@@ -1,6 +1,13 @@
 # NFT
 Sistema de donaciones de ayuda social basados en blockchains y el funcionamiento de los NFTs. 
 
+CREACION DE UN SISTEMA DE GESTIÓN DE CONTENIDOS DONDE LAS REGALIAS OBTENIDAS POR LOS INTERCAMBIOS DE LOS NFT SON UTILIZADAS PARA INCENTIVAR EL ARTE, LA CULTURA, LA MUSICA Y EL ENTRETENIMIENTO PARA QUE ATRAVEZ DE UNA FUNDACION DE CARÁCTER SOCIAL PUEDAN LOS PROFESIONALES EXPONER SUS IDEAS Y PROYECTOS ARTÍSTICOS QUE SERAN INTERCAMBIABLES O SE PODRIAN SUBASTAR PARA QUE UN % DE LO QUE GENEREN LAS REGALIAS SE PUEDA DONAR PARA AYUDA CULTURAL, SOCIAL O PROFESIONAL DE LOS TRABAJADORES.
+
+EL DESARROLLO ESTA INSPIRADO EN LOS SISTEMAS DEMOCRÁTICOS Y LA CONSERVACION DE LA CULTURA URBANA EN LAS SOCIEDADES Y COMO LAS NUEVAS TECNOLOGÍAS COMO BLOCKCHAIN PERMITEN NUEVAS SOLUCIONES PARA LA SOCIEDAD.
+
+ANTE
+PROYECTOS
+
 La Fundación Certifica los profesonales de la industria de la música y reconoce su aporte por medio de los NFTs y las redes blockchain a la cultura urbana. 
 El talento de todos aquellos que se ven involucrados en la industria sera premiados con la intención de verificar que el arte y la musica urbana mantenga la calidad atravez de los años y las décadas.
 Este nuevo modelo de negocio que busca descentralizar aspectos de la industria músical y la cultura urbana, que paralelamente con el modelo tradicional buscará dar soporte, estabilidad y una mejor calidad de vida a quienes conforman la industria del espectáculo y el entretenimiento.
