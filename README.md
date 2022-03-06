@@ -75,7 +75,18 @@ CREATION OF A CONTENT MANAGEMENT SYSTEM WHERE ROYALTIES OBTAINED FROM NFT EXCHAN
 
  The Foundation will enable a dapp platform where it will offer them the option of making available the distribution of certified tickets in NFT format to the events or concerts that they carry out for those who acquire it through the Foundation, the collectible of the Foundation will remain in their wallets. 
 
+COLLECTIONS CONTENT OF information and dissemination
 
+ The content of the collections for those communication professionals who support the Foundation will be through various NFTs certificates that give them access to various activities and privileges.
+ These certificates are acquired through auctions, bidding, votes of certified members.  Members who want to include a certificate of endorsement on content they develop outside of the Foundation will be able to do so through contracts on the dapp and will be able to convert it to NFT format for verification and disclosure by member industry communicators and disseminators.
+ Communicators and disseminators with knowledge of the themes of the collections are a fundamental part of the Foundation.  A contract is enabled where a specific NFT will give you access to record and document the artist or professional to generate exclusive content for the Foundation.
+ This content works in the same way as musical NFTs where the best content developed by communicators and promoters will be rewarded.
+ The right to vote and the right to free opinion will be protected and promoted in the collections that are developed and it is not sought to degrade or develop a platform that generates conflicts between members, for this, measures will be taken such as leaving only a certain number of members visible. winners in the lists of the collections with the intention of not generating ridicule or emotional conflicts that generate any sport or situation where competition is the basis of NFT development.
+ The artists that are visible will be those that make up the main events in the different countries and regions.
+ NFT certified members in the collections of discos, nightclubs, events, concerts or festivals will have the privilege to participate in the auctions, bids, offers, donations and other privileges that the Foundation carries out with the content of the artists and the smart contracts for offer shows or face-to-face or digital.
+ Members will be supported through contracts to create the content they need in NFT format and will be helped to promote it.
+ The Foundation seeks to generate several investment funds so that in each area of ​​the professionals that make up the urban music and entertainment industry, specific donations or systems are provided that help others who are not members, such as the contracts offered by the loan fund so that new professionals are trained.
+ If one of the certified members, for example, wants to study music or any person who applies for a scholarship, support will be provided through the fund developed in blockchain as many education funding institutions currently work but totally transparent and public access based on the systems accounting offered by blockchains.
 .....................
 Sistema de donaciones de ayuda social basados en blockchains y el funcionamiento de los NFTs. 
 
@@ -153,6 +164,23 @@ La Fundación anima a los proyectos y desarrollos blockchains que consideren dar
 La intención es trabajar bajo un sistema descentralizado que verificara las donaciones y la ayuda social en donde las regalías de las colecciones que se donen estarán en los libros contables para que las personas o instituciones puedan ver la transparencia de las transacciónes y vean donde y como se gastan los fondos donados.
 
 La Fundación le habilitará una plataforma dapp donde les brindará la opción de poner a disposición la distribución de entradas certificadas en formato NFT a los eventos o conciertos que realizan para aquellos que la adquieran por medio de la Fundación les quede en sus billeteras el coleccionable de la entrada. 
+
+
+COLECCIONES CONTENIDO DE información y divulgación 
+
+El contenido de las colecciones para aquellos profesionales en comunicación que apoyan la Fundación será por medio de varios certificados NFTs que les brinda acceso a diversas actividades y privilegios.
+Se adquieren estos certificados por medio de subastas, licitaciones, votos de los miembros certificados. Los miembros que quieran incluir un certificado de respaldo en el contenido que desarrollan fuera de la Fundación podrán hacerlo por medio de contratos en la dapp y podrán convertirlo en formato NFT para que los comunicadores y divulgadores de la industria miembros lo verifiquen y divulguen .  
+Los comunicadores y divulgadores con conocimienro en los temas de las colecciones son parte fundamental para la Fundación. Se habilita un contrato donde un NFT específico le dará acceso a grabar y documentar al artista o profesional para generar contenido exclusivo para la Fundación.
+Ese contenido funciona igualmente que los NFT musicales donde Se va premiar al mejor contenido desarrollado por comunicadores y divulgadores. 
+Se va a proteger y promover el derecho al voto y  el derecho a la libre opinión en las colecciones que se desarrollen y no se busca degradar o desarrollar una plataforma que genere conflictos entre miembros para ello se tomarán medidas como dejar visible sólo cierta cantidad de miembros ganadores en las listas de las colecciones con la intención de no generar burla o conflictos emocionales que generan cualquier deporte o situación donde la competencia es la base del desarrollo NFT.
+Los artistas que son visibles serán los que conforman los eventos principales en los distintos países y regiones.
+Los miembros certificados NFT en la colecciones de discotecas, clubes nocturnos, eventos, conciertos o festivales tendrán el privilegio de participar en las subastas, licitaciones, ofertas, donaciones y otros privilegios que la Fundación realiza con el contenido de los artistas y los contratos inteligentes para ofrecer shows o presenciales presenciales  o digitales.  
+Se les dará soporte a los miembros por medio de contratos para crear el contenido que necesitan en formato NFT y se les ayudará a promocionarlo.
+La Fundación busca generar varios fondos de inversión para que en cada área de los profesionales que conforman la industria musical urbana y el entretenimiento se brinde donaciones específicas o sistema que ayuden a otros que no son miembros como los contratos que ofrecera el fondo de préstamos para que se formen nuevos profesionales.
+Si uno de los miembros certificados por ejemplo quiere estudiar musica o cualquier persona que aplique a una beca se le brindará apoyo por medio del fondo desarrollado en blockchain como funcionan actualmente muchas instituciones de fondos para educación pero totalmente transparente y de acceso público basada en los sistemas contables que ofrecen las blockchains.
+
+ 
+
 
 
 
