@@ -179,7 +179,20 @@ Se les dará soporte a los miembros por medio de contratos para crear el conteni
 La Fundación busca generar varios fondos de inversión para que en cada área de los profesionales que conforman la industria musical urbana y el entretenimiento se brinde donaciones específicas o sistema que ayuden a otros que no son miembros como los contratos que ofrecera el fondo de préstamos para que se formen nuevos profesionales.
 Si uno de los miembros certificados por ejemplo quiere estudiar musica o cualquier persona que aplique a una beca se le brindará apoyo por medio del fondo desarrollado en blockchain como funcionan actualmente muchas instituciones de fondos para educación pero totalmente transparente y de acceso público basada en los sistemas contables que ofrecen las blockchains.
 
- 
+ #nft #blockchain 
+NFT collection for nationals parks
+
+Los proyectos que yo les presento son herramientas Blockchain que solucionan los problemas actuales que se presentan instituciones en su contabilidad y registros de datos. 
+El este caso el problema radica en el control de lo recaudado de las entradas a nuestros parques nacionales e internacionales y los fondos que son donados a estas instituciones u organizaciones.
+El sistema actual de donaciones se ve afectado únicamente por la desconfianza de quienes pueden donar porque no tienen idea de donde, para que y como fueron utilizados los fondos donados. Las donaciones podrían aumentar significativamente si el sistema de control de donaciones fuera descentralizado, transparente y público, como mínimo el donante debería tener acceso a esa información. 
+El proponer este desarrollo de sistemas y herramientas de donaciones basadas en blockchain a través de una Fundación de carácter social que a través de estas tecnologías busca probar y aprobar estas nuevas soluciones  que se podrían aplicar globalmente.
+El crear una dapp donde encontrarán colecciones de NFTs con las entradas a nuestros parques nacionales e internacionales y los contratos con toda la información que podrán adquirir a través de muchos sistemas de intercambios, una plataforma donde podrán registrar y coleccionar estos NFTs certificados los cuales servirán para que todo aquel que adquirió o no los NFTs observen las colecciones y las transferencias e intercambios que se hacen todos los días.
+En la plataforma también encontrarán un sistema de donaciones donde los que quieran donar podrán hacerlo a través de adquirir un NFT que podría contener algún contenido audiovisual o no de la Fundación y que le brindará al donante la tranquilidad que aquello que donó va ser utilizado para lo que la colección de donacion fue creada.
+
+Continuará...
+
+
+
 
 
 
