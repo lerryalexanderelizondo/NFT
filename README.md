@@ -201,6 +201,9 @@ El proponer este desarrollo de sistemas y herramientas de donaciones basadas en 
 El crear una dapp donde encontrarán colecciones de NFTs con las entradas a nuestros parques nacionales e internacionales y los contratos con toda la información que podrán adquirir a través de muchos sistemas de intercambios, una plataforma donde podrán registrar y coleccionar estos NFTs certificados los cuales servirán para que todo aquel que adquirió o no los NFTs observen las colecciones y las transferencias e intercambios que se hacen todos los días.
 En la plataforma también encontrarán un sistema de donaciones donde los que quieran donar podrán hacerlo a través de adquirir un NFT que podría contener algún contenido audiovisual o no de la Fundación y que le brindará al donante la tranquilidad que aquello que donó va ser utilizado para lo que la colección de donacion fue creada.
 
+Donación de NFTs de la Fundación (campeón del mundo u olímpico)
+La Fundación tiene claro aspectos importantes de nuestras sociedades y quiere involucrar al deporte a nuestras colecciones. La colección de Campeones sera uno de los aportes que desea implementar la Fundación para así iniciar uno de los proyectos más importantes de registros de las capacidades y talentos humanos.. 
+
 Continuará...
 
 
