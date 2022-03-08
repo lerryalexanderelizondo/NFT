@@ -98,6 +98,9 @@ COLLECTIONS CONTENT OF information and dissemination
  Creating a dapp where you will find collections of NFTs with tickets to our national and international parks and contracts with all the information that you can acquire through many exchange systems, a platform where you can register and collect these certified NFTs which will serve to Let everyone who has or has not acquired NFTs observe the collections and the transfers and exchanges that are made every day.
  On the platform you will also find a donation system where those who want to donate can do so by acquiring an NFT that may or may not contain some audiovisual content from the Foundation and that will give the donor the peace of mind that what they donated will be used for what they donate. that the donation collection was created.
 
+Donation of NFTs from the Foundation (world or Olympic champion)
+ The Foundation is clear about important aspects of our societies and wants to involve sport in our collections.  The Champions collection will be one of the contributions that the Foundation wishes to implement in order to start one of the most important projects for registering human abilities and talents.
+
  To be continue...
 .....................
 Sistema de donaciones de ayuda social basados en blockchains y el funcionamiento de los NFTs. 
