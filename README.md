@@ -87,6 +87,18 @@ COLLECTIONS CONTENT OF information and dissemination
  Members will be supported through contracts to create the content they need in NFT format and will be helped to promote it.
  The Foundation seeks to generate several investment funds so that in each area of ​​the professionals that make up the urban music and entertainment industry, specific donations or systems are provided that help others who are not members, such as the contracts offered by the loan fund so that new professionals are trained.
  If one of the certified members, for example, wants to study music or any person who applies for a scholarship, support will be provided through the fund developed in blockchain as many education funding institutions currently work but totally transparent and public access based on the systems accounting offered by blockchains.
+
+#nft #blockchain
+ NFT collection for national parks
+
+ The projects that I present to you are Blockchain tools that solve the current problems that institutions face in their accounting and data records.
+ In this case, the problem lies in the control of what is collected from the entrance fees to our national and international parks and the funds that are donated to these institutions or organizations.
+ The current donation system is only affected by the distrust of those who can donate because they have no idea where, for what and how the donated funds were used.  Donations could increase significantly if the donation control system were decentralized, transparent and public, at a minimum the donor should have access to that information.
+ Proposing this development of blockchain-based donation systems and tools through a Foundation of a social nature that seeks to test and approve these new solutions that could be applied globally through these technologies.
+ Creating a dapp where you will find collections of NFTs with tickets to our national and international parks and contracts with all the information that you can acquire through many exchange systems, a platform where you can register and collect these certified NFTs which will serve to Let everyone who has or has not acquired NFTs observe the collections and the transfers and exchanges that are made every day.
+ On the platform you will also find a donation system where those who want to donate can do so by acquiring an NFT that may or may not contain some audiovisual content from the Foundation and that will give the donor the peace of mind that what they donated will be used for what they donate. that the donation collection was created.
+
+ To be continue...
 .....................
 Sistema de donaciones de ayuda social basados en blockchains y el funcionamiento de los NFTs. 
 
