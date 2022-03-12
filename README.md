@@ -101,6 +101,10 @@ COLLECTIONS CONTENT OF information and dissemination
 Donation of NFTs from the Foundation (world or Olympic champion)
  The Foundation is clear about important aspects of our societies and wants to involve sport in our collections.  The Champions collection will be one of the contributions that the Foundation wishes to implement in order to start one of the most important projects for registering human abilities and talents.
 
+Interactive NFT Formats
+ The #nft administration system and the content and information of interactive contracts are one of the format options that the Foundation seeks to implement where all members certified through votes choose one of the options presented to them.  It is sought that the members, through a democratic system, can create their own formats and configurations of the TOS and rules to be followed by the collections.
+
+
  To be continue...
 .....................
 Sistema de donaciones de ayuda social basados en blockchains y el funcionamiento de los NFTs. 
