@@ -206,6 +206,11 @@ En la plataforma también encontrarán un sistema de donaciones donde los que qu
 
 Donación de NFTs de la Fundación (campeón del mundo u olímpico)
 La Fundación tiene claro aspectos importantes de nuestras sociedades y quiere involucrar al deporte a nuestras colecciones. La colección de Campeones sera uno de los aportes que desea implementar la Fundación para así iniciar uno de los proyectos más importantes de registros de las capacidades y talentos humanos.. 
+Formatos de NFTs interactivos
+El sistema de administración de los #nft y el contenido e información de los contratos interactivos son una de las opciones de formatos que la Fundación busca implementar en donde todos los miembros certificados por medio de los votos elijan una de las opciones que se les presentan. Se busca que los miembros a través de un sistema democrático puedan crear sus propios formatos y configuraciónes del TOS  y reglas a seguir de las colecciones. 
+
+Continuará...
+
 
 Continuará...
 
